@@ -29,5 +29,5 @@ const loop=setInterval(() => {
     }
 
 }, 10);
-
+const button=('f5')
 document.addEventListener('keydown', jump)
